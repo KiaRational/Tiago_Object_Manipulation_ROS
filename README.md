@@ -77,7 +77,8 @@ This project simulates the **Tiago Mobile Manipulator** robot 🦾 in a **Gazebo
 ## Video 🎬
 
 The video is 5x in speed showcase the robot actions:
-https://github.com/user-attachments/assets/0df31f60-6123-4dcf-8fb9-c4cf5e36caaa
+
+https://user-images.githubusercontent.com/0df31f60-6123-4dcf-8fb9-c4cf5e36caaa
 
 
 ## Screenshots 🖼️
