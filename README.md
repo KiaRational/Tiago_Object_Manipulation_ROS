@@ -74,6 +74,8 @@ This project simulates the **Tiago Mobile Manipulator** robot 🦾 in a **Gazebo
    - The vision node detects ArUco markers and publishes object poses.
    - The arm control node subscribes to the vision node and sends the end-effector to grasp the objects.
 4. **Moving Objects:** The robot picks up the objects from the middle table and places them on the corner table, ensuring collision avoidance with the environment.
+## Video 🎬
+
 
 ## Screenshots 🖼️
 
