@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<package>
+  <name>tiago_task</name>
+  <version>2.3.19</version>
+  <description>The tiago_task package</description>
+
+  <!-- One maintainer tag required, multiple allowed, one person per tag -->
+  <!-- Example:  -->
+  <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
+  <maintainer email="k@todo.todo">k</maintainer>
+  <license>BSD</license>
+  <author email="kia@todo.todo">kia</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+  <run_depend>message_runtime</run_depend>
+
+  <run_depend>gazebo_plugins</run_depend>
+  <run_depend>pal_gazebo_plugins</run_depend>
+  <run_depend>pal_gazebo_worlds</run_depend>
+  <run_depend>pal_hardware_gazebo</run_depend>
+  <run_depend>tiago_bringup</run_depend>
+  <run_depend>tiago_controller_configuration_gazebo</run_depend>
+  <run_depend>tiago_description</run_depend>
+  <run_depend>pal_gripper_controller_configuration_gazebo</run_depend>
+  <run_depend>pal_pcl_points_throttle_and_filter</run_depend>
+
+  <run_depend>rospy</run_depend>
+  <run_depend>play_motion_msgs</run_depend>
+
+
+</package>

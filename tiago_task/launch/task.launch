@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <!-- Launch the vision node -->
+    <node name="tiago_task_manager" pkg="tiago_task" type="send_nav_goal.py" output="screen"/>
+    <node name="vision" pkg="tiago_task" type="vision.py" output="screen" />
+</launch>
+
