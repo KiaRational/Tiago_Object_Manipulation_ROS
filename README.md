@@ -75,18 +75,18 @@ This project simulates the **Tiago Mobile Manipulator** robot 🦾 in a **Gazebo
    - The arm control node subscribes to the vision node and sends the end-effector to grasp the objects.
 4. **Moving Objects:** The robot picks up the objects from the middle table and places them on the corner table, ensuring collision avoidance with the environment.
 ## Video 🎬
-
+https://github.com/KiaRational/Tiago_Object_Manipulation_ROS/raw/refs/heads/main/Readme/Video_5xfasten.mp4
 
 ## Screenshots 🖼️
 
 1. **Robot in the Environment:**
-   ![Tiago Robot](path_to_image)
+   ![Tiago Robot](https://github.com/KiaRational/Tiago_Object_Manipulation_ROS/blob/main/Readme/Fig3_ReachingTable1.png)
 
 2. **Object Detection with ArUco Markers:**
-   ![Aruco Detection](path_to_image)
+   ![Aruco Detection](https://github.com/KiaRational/Tiago_Object_Manipulation_ROS/blob/main/Readme/Fig4_Detection.png)
 
 3. **Arm Manipulation:**
-   ![Arm Control](path_to_image)
+   ![Robot Frames](https://github.com/KiaRational/Tiago_Object_Manipulation_ROS/blob/main/Readme/Fig5_Robot_Vision_Transform.png?raw=true)
 
 ## References 📚
 
