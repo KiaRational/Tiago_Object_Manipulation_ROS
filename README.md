@@ -3,6 +3,12 @@
 
 This project simulates the **Tiago Mobile Manipulator** robot 🦾 in a **Gazebo** environment 🏙, integrated with **ROS**. The robot performs navigation, object detection using ArUco markers, and object manipulation using the **MoveIt** library 🛠️.
 
+## Video 🎬
+
+The video is 5x in speed showcase the robot actions:
+
+https://user-images.githubusercontent.com/0df31f60-6123-4dcf-8fb9-c4cf5e36caaa
+
 ## Features 🌟
 
 1. **Environment Setup:**
@@ -74,11 +80,6 @@ This project simulates the **Tiago Mobile Manipulator** robot 🦾 in a **Gazebo
    - The vision node detects ArUco markers and publishes object poses.
    - The arm control node subscribes to the vision node and sends the end-effector to grasp the objects.
 4. **Moving Objects:** The robot picks up the objects from the middle table and places them on the corner table, ensuring collision avoidance with the environment.
-## Video 🎬
-
-The video is 5x in speed showcase the robot actions:
-
-https://user-images.githubusercontent.com/0df31f60-6123-4dcf-8fb9-c4cf5e36caaa
 
 
 ## Screenshots 🖼️
